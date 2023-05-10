@@ -1,0 +1,5 @@
+﻿  360Video.cpp
+C:\Users\LIJUN\Desktop\360Video\360Video\360Video.cpp(26,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\LIJUN\Desktop\360Video\360Video\360Video.cpp(108,48): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\LIJUN\Desktop\360Video\360Video\360Video.cpp(114,46): warning C4305: “参数”: 从“double”到“float”截断
+  360Video.vcxproj -> C:\Users\LIJUN\Desktop\360Video\x64\Debug\360Video.exe
